@@ -1,4 +1,4 @@
-from filestore.models.base_model import BaseModel
-from filestore.models.folder_model import Folder
-from filestore.models.file_model import File
-from filestore.models.content_model import Content
+# -*- coding: utf-8 -*-
+from filestore.models.base_model import BaseModel  # noqa
+from filestore.models.folder_model import Folder  # noqa
+from filestore.models.file_model import File  # noqa
